@@ -1,4 +1,6 @@
-streamlit>=1.35
-pandas>=2.0
-openpyxl>=3.1
-pyvis>=0.3.2
+streamlit
+pandas
+openpyxl
+plotly
+pyvis
+numpy
